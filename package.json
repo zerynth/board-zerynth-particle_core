@@ -1,9 +1,9 @@
 {
     "dependencies": {
-        "lib.texas.cc3000": "r2.1.1",
-        "sys.zerynth.armgcc": "r2.1.1",
-        "sys.zerynth.dfu": "r2.1.1",
-        "vhal.zerynth.armcmx_stm32f1": "r2.1.1"
+        "lib.texas.cc3000": "r2.1.2",
+        "sys.zerynth.armgcc": "r2.1.2",
+        "sys.zerynth.dfu": "r2.1.2",
+        "vhal.zerynth.armcmx_stm32f1": "r2.1.2"
     },
     "description": "Add support for Particle Core",
     "fullname": "board.zerynth.particle_core",
@@ -20,6 +20,6 @@
     ],
     "repo": "official",
     "title": "Particle Core Support Package",
-    "version": "r2.1.1",
+    "version": "r2.1.2",
     "whatsnew": ""
 }
